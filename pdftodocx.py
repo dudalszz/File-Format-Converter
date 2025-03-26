@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 from pdf2docx import Converter
 import os
-import fileinput
 
 
 def select_pdf():
